@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T17:51:28.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="pTEV0OQnTE1GAAu98bbY" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T19:25:02.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="lEulolcAkZo7_UHAgd9N" version="14.6.9" type="github">
   <diagram id="F6DAeWz7Sgy3D3tQku0R" name="Page-1">
-    <mxGraphModel dx="3529" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="10225" dy="4835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="-120" y="2530" width="1470" height="1694.5" as="geometry" />
         </mxCell>
         <mxCell id="8ed9XIQWzC79c0tnmQ3P-111" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;" parent="1" vertex="1">
-          <mxGeometry x="2070" y="185.5" width="1960" height="1980" as="geometry" />
+          <mxGeometry x="2070" y="185.5" width="1960" height="1894.5" as="geometry" />
         </mxCell>
         <mxCell id="8ed9XIQWzC79c0tnmQ3P-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;" parent="1" vertex="1">
           <mxGeometry x="-80" y="185.5" width="1470" height="1694.5" as="geometry" />
@@ -58,7 +58,7 @@
         </UserObject>
         <UserObject label="" lucidchartObjectId="a.Zv_2SgJKij" id="R9czVkcFzlXqYHZKievn-10">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.cisco.misc.access_point;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#036897;strokeColor=#ffffff;whiteSpace=wrap;fontSize=13;align=center;spacing=0;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=0.8;" parent="1" vertex="1">
-            <mxGeometry x="3143.5" y="757" width="113" height="113" as="geometry" />
+            <mxGeometry x="2896" y="745" width="113" height="113" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="~.Zv7e6CAJx0" id="R9czVkcFzlXqYHZKievn-11">
@@ -218,7 +218,7 @@
             <mxGeometry x="3780" y="1313" width="180" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="RW_R2&lt;br&gt;IP(GATEWAY G0/0.MAR): 172.16.64.1&lt;br&gt;IP(GATEWAY G0/0.FIN): 172.16.68.1&lt;br&gt;IP(GATEWAY G0/0.IT): 172.16.72.1" lucidchartObjectId="om0v5oPt-WHp" id="R9czVkcFzlXqYHZKievn-37">
+        <UserObject label="RW_F2_R2&lt;br&gt;IP(GATEWAY G0/0.MAR): 172.16.64.1&lt;br&gt;IP(GATEWAY G0/0.FIN): 172.16.68.1&lt;br&gt;IP(GATEWAY G0/0.IT): 172.16.72.1" lucidchartObjectId="om0v5oPt-WHp" id="R9czVkcFzlXqYHZKievn-37">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" parent="1" vertex="1">
             <mxGeometry x="2025.75" y="1047" width="562.5" height="45" as="geometry" />
           </mxCell>
@@ -238,9 +238,9 @@
             <mxGeometry x="428.25" y="695" width="180" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="RW_F2_ACCESSPOINT" lucidchartObjectId=".n0v6r6qx0r2" id="R9czVkcFzlXqYHZKievn-41">
+        <UserObject label="RW_F2_ACCESSPOINT&lt;br&gt;IP: Dynamic" lucidchartObjectId=".n0v6r6qx0r2" id="R9czVkcFzlXqYHZKievn-41">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" parent="1" vertex="1">
-            <mxGeometry x="720" y="700" width="180" height="45" as="geometry" />
+            <mxGeometry x="720" y="708" width="180" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="RW_SW1&lt;br&gt;IP: 172.16.28.2" lucidchartObjectId="to0vsYJvOKUJ" id="R9czVkcFzlXqYHZKievn-42">
@@ -273,14 +273,14 @@
             <mxGeometry x="2524" y="1537" width="180" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="SHARED_FILESERVER&lt;br&gt;IP: 172.16.78.4" lucidchartObjectId="Ip0v6euqEYLq" id="R9czVkcFzlXqYHZKievn-48">
+        <UserObject label="SHARED_FILESERVER" lucidchartObjectId="Ip0v6euqEYLq" id="R9czVkcFzlXqYHZKievn-48">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" parent="1" vertex="1">
             <mxGeometry x="2217" y="1537" width="180" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="RW_F2_ACCESSPOINT" lucidchartObjectId="aq0vyQOjYn.D" id="R9czVkcFzlXqYHZKievn-49">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" parent="1" vertex="1">
-            <mxGeometry x="3130" y="878" width="180" height="45" as="geometry" />
+            <mxGeometry x="2838.25" y="855" width="236.5" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="MAR3" lucidchartObjectId="_q0vCnCS0Tuj" id="R9czVkcFzlXqYHZKievn-50">
@@ -296,11 +296,6 @@
         <UserObject label="MAR5" lucidchartObjectId="Br0vibU3P18z" id="R9czVkcFzlXqYHZKievn-52">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" parent="1" vertex="1">
             <mxGeometry x="3498.5" y="695" width="180" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;MAR6&lt;/span&gt;" lucidchartObjectId="Ir0vipt4TD-h" id="R9czVkcFzlXqYHZKievn-53">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" parent="1" vertex="1">
-            <mxGeometry x="3718" y="695" width="180" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="fs0v6GgkeF_j" id="R9czVkcFzlXqYHZKievn-54">
@@ -369,7 +364,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="R9czVkcFzlXqYHZKievn-69" value="&lt;font style=&quot;font-size: 18px&quot;&gt;VTP Server&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=#00FFFF;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="2720" y="1101" width="140" height="45" as="geometry" />
+          <mxGeometry x="2720" y="1116" width="140" height="45" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="cj0vBtYChwgx" id="R9czVkcFzlXqYHZKievn-70">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=none;;exitX=0.5;exitY=0;exitPerimeter=0;entryX=0.5;entryY=1;entryPerimeter=0;" parent="1" source="R9czVkcFzlXqYHZKievn-6" target="R9czVkcFzlXqYHZKievn-69" edge="1">
@@ -385,162 +380,6 @@
         </UserObject>
         <mxCell id="8ed9XIQWzC79c0tnmQ3P-5" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;&lt;b&gt;Rwanda (Floor 1)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="447.25" y="200" width="445" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-21" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="153.25" y="1550" width="1050" height="302" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ed9XIQWzC79c0tnmQ3P-21" vertex="1">
-          <mxGeometry width="1050" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-23" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Name&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFB570;top=0;left=0;bottom=0;right=0;strokeColor=#000000;shadow=1;" parent="8ed9XIQWzC79c0tnmQ3P-22" vertex="1">
-          <mxGeometry width="179" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-24" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Pool&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFB570;top=0;left=0;bottom=0;right=0;strokeColor=#000000;" parent="8ed9XIQWzC79c0tnmQ3P-22" vertex="1">
-          <mxGeometry x="179" width="393" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-25" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VLAN IP&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFB570;top=0;left=0;bottom=0;right=0;strokeColor=#000000;" parent="8ed9XIQWzC79c0tnmQ3P-22" vertex="1">
-          <mxGeometry x="572" width="256" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-26" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VLAN Gateway IP&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFB570;top=0;left=0;bottom=0;right=0;strokeColor=#000000;" parent="8ed9XIQWzC79c0tnmQ3P-22" vertex="1">
-          <mxGeometry x="828" width="222" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-27" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ed9XIQWzC79c0tnmQ3P-21" vertex="1">
-          <mxGeometry y="66" width="1050" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-28" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VLAN MAR&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-27" vertex="1">
-          <mxGeometry width="179" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-29" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.0.0/22 (max-hosts: 1022)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-27" vertex="1">
-          <mxGeometry x="179" width="393" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-30" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.0.3&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-27" vertex="1">
-          <mxGeometry x="572" width="256" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-31" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.0.1&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-27" vertex="1">
-          <mxGeometry x="828" width="222" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ed9XIQWzC79c0tnmQ3P-21" vertex="1">
-          <mxGeometry y="122" width="1050" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-33" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VLAN FIN&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-32" vertex="1">
-          <mxGeometry width="179" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-34" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.4.0/22 (max-hosts: 1022)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-32" vertex="1">
-          <mxGeometry x="179" width="393" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-35" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.4.3&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-32" vertex="1">
-          <mxGeometry x="572" width="256" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-36" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.4.1&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-32" vertex="1">
-          <mxGeometry x="828" width="222" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ed9XIQWzC79c0tnmQ3P-21" vertex="1">
-          <mxGeometry y="183" width="1050" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-38" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VLAN IT&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-37" vertex="1">
-          <mxGeometry width="179" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-39" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.8.0/22&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;(max-hosts: 1022)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-37" vertex="1">
-          <mxGeometry x="179" width="393" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-40" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.8.3&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-37" vertex="1">
-          <mxGeometry x="572" width="256" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-41" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.8.1&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-37" vertex="1">
-          <mxGeometry x="828" width="222" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-80" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ed9XIQWzC79c0tnmQ3P-21" vertex="1">
-          <mxGeometry y="244" width="1050" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-81" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Static&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-80" vertex="1">
-          <mxGeometry width="179" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-82" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.28.0/22 (max-hosts: 1022)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-80" vertex="1">
-          <mxGeometry x="179" width="393" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-83" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-80" vertex="1">
-          <mxGeometry x="572" width="256" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-84" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-80" vertex="1">
-          <mxGeometry x="828" width="222" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-85" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="2430" y="1760" width="1340" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-86" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ed9XIQWzC79c0tnmQ3P-85" vertex="1">
-          <mxGeometry width="1340" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-87" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Name&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFB570;top=0;left=0;bottom=0;right=0;strokeColor=#000000;shadow=1;" parent="8ed9XIQWzC79c0tnmQ3P-86" vertex="1">
-          <mxGeometry width="336" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-88" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Pool&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFB570;top=0;left=0;bottom=0;right=0;strokeColor=#000000;" parent="8ed9XIQWzC79c0tnmQ3P-86" vertex="1">
-          <mxGeometry x="336" width="334" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-89" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VLAN IP&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFB570;top=0;left=0;bottom=0;right=0;strokeColor=#000000;" parent="8ed9XIQWzC79c0tnmQ3P-86" vertex="1">
-          <mxGeometry x="670" width="336" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-90" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VLAN Gateway IP&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFB570;top=0;left=0;bottom=0;right=0;strokeColor=#000000;" parent="8ed9XIQWzC79c0tnmQ3P-86" vertex="1">
-          <mxGeometry x="1006" width="334" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-91" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ed9XIQWzC79c0tnmQ3P-85" vertex="1">
-          <mxGeometry y="70" width="1340" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-92" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VLAN 10 (&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;MAR&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-91" vertex="1">
-          <mxGeometry width="336" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-93" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.64.0/22 (max-hosts: 1022)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-91" vertex="1">
-          <mxGeometry x="336" width="334" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-94" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.64.3&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-91" vertex="1">
-          <mxGeometry x="670" width="336" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-95" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.64.1&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-91" vertex="1">
-          <mxGeometry x="1006" width="334" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-96" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ed9XIQWzC79c0tnmQ3P-85" vertex="1">
-          <mxGeometry y="131" width="1340" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-97" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VLAN 20 (&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;FIN&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-96" vertex="1">
-          <mxGeometry width="336" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-98" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.68.0&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;/22 (max-hosts: 1022)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-96" vertex="1">
-          <mxGeometry x="336" width="334" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-99" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.68.3&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-96" vertex="1">
-          <mxGeometry x="670" width="336" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-100" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.68.1&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-96" vertex="1">
-          <mxGeometry x="1006" width="334" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-101" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ed9XIQWzC79c0tnmQ3P-85" vertex="1">
-          <mxGeometry y="202" width="1340" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-102" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VLAN 30 (&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;IT&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-101" vertex="1">
-          <mxGeometry width="336" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-103" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.72.0/22&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;(max-hosts: 1022)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-101" vertex="1">
-          <mxGeometry x="336" width="334" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-104" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.72.3&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-101" vertex="1">
-          <mxGeometry x="670" width="336" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-105" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.72.1&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-101" vertex="1">
-          <mxGeometry x="1006" width="334" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-106" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="8ed9XIQWzC79c0tnmQ3P-85" vertex="1">
-          <mxGeometry y="269" width="1340" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-107" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Static IPs&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-106" vertex="1">
-          <mxGeometry width="336" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-108" value="&lt;span style=&quot;font-size: 24px&quot;&gt;172.16.76.0/22 (max-hosts: 1022)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-106" vertex="1">
-          <mxGeometry x="336" width="334" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-109" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-106" vertex="1">
-          <mxGeometry x="670" width="336" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="8ed9XIQWzC79c0tnmQ3P-110" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="8ed9XIQWzC79c0tnmQ3P-106" vertex="1">
-          <mxGeometry x="1006" width="334" height="61" as="geometry" />
         </mxCell>
         <mxCell id="8ed9XIQWzC79c0tnmQ3P-112" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;&lt;b&gt;Rwanda (Floor 2)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2846.5" y="200" width="490" height="80" as="geometry" />
@@ -966,84 +805,87 @@
         <mxCell id="Usrpdzci2_s5Gbklsa-7-120" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 48px&quot;&gt;&lt;b&gt;Mauritius (MU)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2915" y="2590" width="370" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-1" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="3490" y="1360" width="180" height="120" as="geometry" />
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-55">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="2860" y="882" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-58">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="3010" y="720" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-59">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="3248" y="720" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-60">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="3510" y="720" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MAR6&lt;br&gt;IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-61">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="3739.5" y="713" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-62">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="3786.5" y="960" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-63">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="3786.5" y="1340" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-64">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="3109.5" y="1570" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-65">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="2850.5" y="1570" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-66">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="2540" y="1570" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: 172.16.78.4" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-68">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="2235" y="1565" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lTTCxeNrmjkR6V8ppywh-74" value="&lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; dir=&quot;ltr&quot; border=&quot;1&quot; style=&quot;table-layout: fixed ; width: 0px ; border-collapse: collapse ; border: none&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;237&quot;&gt;&lt;col width=&quot;183&quot;&gt;&lt;col width=&quot;162&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-width: 1px ; border-style: solid ; border-color: rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; background-color: rgb(255 , 109 , 1) ; font-family: &amp;#34;proxima nova&amp;#34; ; font-weight: bold ; color: rgb(255 , 255 , 255) ; text-align: center ; font-size: 18pt&quot; rowspan=&quot;2&quot; colspan=&quot;2&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px&quot;&gt;Name &lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid rgb(0 , 0 , 0) ; border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; background-color: rgb(255 , 109 , 1) ; font-family: &amp;#34;proxima nova&amp;#34; ; font-weight: bold ; color: rgb(255 , 255 , 255) ; text-align: center ; font-size: 18pt&quot; rowspan=&quot;2&quot; colspan=&quot;2&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;DHCP Pool&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid #000000 ; border-right: 1px solid #000000 ; border-bottom: 1px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: middle ; background-color: #ff6d01 ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: bold ; color: #ffffff ; text-align: center&quot; rowspan=&quot;2&quot; colspan=&quot;1&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Reserved IPs Range&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid #000000 ; border-right: 1px solid #000000 ; border-bottom: 1px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: middle ; background-color: #ff6d01 ; font-family: &amp;#34;nova&amp;#34; ; font-size: 18pt ; font-weight: bold ; color: #ffffff ; text-align: center&quot; rowspan=&quot;2&quot; colspan=&quot;1&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;VLAN IP&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid #000000 ; border-right: 1px solid #000000 ; border-bottom: 1px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: middle ; background-color: #ff6d01 ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: bold ; color: #ffffff ; text-align: center&quot; rowspan=&quot;2&quot; colspan=&quot;1&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Gateway IP &lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid #000000 ; border-right: 1px solid #000000 ; border-bottom: 1px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: middle ; background-color: #ff6d01 ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: bold ; color: #ffffff ; text-align: center&quot; rowspan=&quot;2&quot; colspan=&quot;2&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Assigned Ports&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 52px&quot;&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 65px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; border-left: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;VLAN 10 (MAR)&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.64.0/22 (max-hosts: 1022)&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.64.1: 172.16.64.21&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.64.3&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.64.1&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Fa0/1-5&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; border-left: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;VLAN 20 (FIN)&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.68.0/22 (max-hosts: 1022)&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.68.1: 172.16.68.21&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.68.3&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.68.1&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Fa0/6-11&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; border-left: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;VLAN 30 (IT)&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.72.0/22 (max-hosts: 1022)&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.72.1: 172.16.72.21&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.72.3&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.72.1&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Fa0/12-17&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 67px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; border-left: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Static IPs&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.76.0/22 (max-hosts: 1022)&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;-&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;-&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;-&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;-&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1700" width="1180" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V6HNvKscF54YonnrRLsc-1">
-          <mxGeometry width="180" height="40" as="geometry" />
+        <mxCell id="lTTCxeNrmjkR6V8ppywh-75" value="&lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; dir=&quot;ltr&quot; border=&quot;1&quot; style=&quot;table-layout: fixed ; width: 0px ; border-collapse: collapse ; border: none&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;237&quot;&gt;&lt;col width=&quot;183&quot;&gt;&lt;col width=&quot;162&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;col width=&quot;100&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-top: 1px solid #000000 ; border-right: 1px solid #000000 ; border-bottom: 1px solid #000000 ; border-left: 1px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: middle ; background-color: #ff6d01 ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: bold ; color: #ffffff ; text-align: center&quot; rowspan=&quot;2&quot; colspan=&quot;2&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px&quot;&gt;Name &lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid #000000 ; border-right: 1px solid #000000 ; border-bottom: 1px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: middle ; background-color: #ff6d01 ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: bold ; color: #ffffff ; text-align: center&quot; rowspan=&quot;2&quot; colspan=&quot;2&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;DHCP Pool&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid #000000 ; border-right: 1px solid #000000 ; border-bottom: 1px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: middle ; background-color: #ff6d01 ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: bold ; color: #ffffff ; text-align: center&quot; rowspan=&quot;2&quot; colspan=&quot;1&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Reserved IPs Range&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid #000000 ; border-right: 1px solid #000000 ; border-bottom: 1px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: middle ; background-color: #ff6d01 ; font-family: &amp;#34;nova&amp;#34; ; font-size: 18pt ; font-weight: bold ; color: #ffffff ; text-align: center&quot; rowspan=&quot;2&quot; colspan=&quot;1&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;VLAN IP&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid #000000 ; border-right: 1px solid #000000 ; border-bottom: 1px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: middle ; background-color: #ff6d01 ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: bold ; color: #ffffff ; text-align: center&quot; rowspan=&quot;2&quot; colspan=&quot;1&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Gateway IP &lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid #000000 ; border-right: 1px solid #000000 ; border-bottom: 1px solid #000000 ; overflow: hidden ; padding: 2px 3px 2px 3px ; vertical-align: middle ; background-color: #ff6d01 ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: bold ; color: #ffffff ; text-align: center&quot; rowspan=&quot;2&quot; colspan=&quot;2&quot;&gt;&lt;span&gt;&lt;div style=&quot;max-height: 73px&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Assigned Ports&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 52px&quot;&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 65px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; border-left: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;VLAN 10 (MAR)&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font size=&quot;3&quot;&gt;172.16.0.0/22 (max-hosts: 1022)&lt;/font&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.0.1: 172.16.0.21&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font size=&quot;3&quot;&gt;172.16.0.3&lt;/font&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font size=&quot;3&quot;&gt;172.16.0.1&lt;/font&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Fa0/1-5&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; border-left: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;VLAN 20 (FIN)&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font size=&quot;3&quot;&gt;172.16.4.0/22 (max-hosts: 1022)&lt;/font&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.4.1: 172.16.4.21&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font size=&quot;3&quot;&gt;172.16.4.3&lt;/font&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font size=&quot;3&quot;&gt;172.16.4.1&lt;/font&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Fa0/6-11&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; border-left: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;VLAN 30 (IT)&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;172.16.8.0/22&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;(max-hosts: 1022)&lt;/span&gt;&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;172.16.8.1: 172.16.8.21&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font size=&quot;3&quot;&gt;172.16.8.3&lt;/font&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font size=&quot;3&quot;&gt;172.16.8.1&lt;/font&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Fa0/12-17&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 67px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; border-left: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Static IPs&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font size=&quot;3&quot;&gt;172.16.28.0/22 (max-hosts: 1022)&lt;/font&gt;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;-&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;-&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;-&lt;/font&gt;&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0 , 0 , 0) ; border-bottom: 1px solid rgb(0 , 0 , 0) ; overflow: hidden ; padding: 2px 3px ; vertical-align: middle ; font-family: &amp;#34;proxima nova&amp;#34; ; font-size: 18pt ; font-weight: normal ; overflow-wrap: break-word ; text-align: center&quot; rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;-&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="72" y="1510" width="1180" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-2">
-          <mxGeometry width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-2">
-          <mxGeometry x="60" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-2">
-          <mxGeometry x="120" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V6HNvKscF54YonnrRLsc-1">
-          <mxGeometry y="40" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-6">
-          <mxGeometry width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-6">
-          <mxGeometry x="60" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-6">
-          <mxGeometry x="120" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V6HNvKscF54YonnrRLsc-1">
-          <mxGeometry y="80" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-10">
-          <mxGeometry width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-10">
-          <mxGeometry x="60" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-10">
-          <mxGeometry x="120" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-14" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="3490" y="1360" width="180" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V6HNvKscF54YonnrRLsc-14">
-          <mxGeometry width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-15">
-          <mxGeometry width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-15">
-          <mxGeometry x="60" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-15">
-          <mxGeometry x="120" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V6HNvKscF54YonnrRLsc-14">
-          <mxGeometry y="40" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-19">
-          <mxGeometry width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-19">
-          <mxGeometry x="60" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-19">
-          <mxGeometry x="120" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V6HNvKscF54YonnrRLsc-14">
-          <mxGeometry y="80" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-23">
-          <mxGeometry width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-23">
-          <mxGeometry x="60" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6HNvKscF54YonnrRLsc-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="V6HNvKscF54YonnrRLsc-23">
-          <mxGeometry x="120" width="60" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-76">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="135.5" y="1416" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-77">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="130" y="960" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-78">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="200" y="720" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="IP: Dynamic" lucidchartObjectId="Qo0vA_yhYyZS" id="lTTCxeNrmjkR6V8ppywh-79">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=20;fontColor=#333333;align=center;spacing=0;strokeWidth=1.5;" vertex="1" parent="1">
+            <mxGeometry x="428.25" y="720" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
